@@ -1,0 +1,1 @@
+# Lendina Pozhegu Example repo
